@@ -11,3 +11,5 @@ spring:
       hibernate:
         format-sql: true
 
+project:
+  poster: posters/
